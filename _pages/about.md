@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my website!
 
-My name is Jie Hu, and I'm currently pursuing my Ph.D. at center for Data Science, Peking University. I obtained my B.S. in Applied Mathematics at Tongji University in 2023.
+My name is Jie Hu, and I'm currently pursuing my Ph.D. at center for Data Science, Peking University. I obtained my B.S. in Applied Mathematics from Tongji University in 2023.
 
 During my first year rotation, I'm very fortunated to be advised by [Prof.Kun Yuan](https://kunyuan827.github.io) in the first semester.
 

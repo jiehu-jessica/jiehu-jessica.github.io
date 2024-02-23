@@ -13,7 +13,7 @@ My name is Jie Hu, and I'm currently pursuing my Ph.D. at Center for Data Scienc
 
 During my first year rotation, I'm incredibly fortunate to be advised by [Prof. Kun Yuan](https://kunyuan827.github.io) in the first semester.
 
-My research interests include development of efficient algorithms and systems for deep learning, software-hardware codesign of AI models, large language model quantization/acceleration. 
+My research interests include development of efficient algorithms and systems for deep learning, software-hardware co-design of AI models, large language model quantization/acceleration. 
 
 
 

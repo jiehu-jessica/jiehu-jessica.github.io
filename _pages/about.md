@@ -15,7 +15,7 @@ In my first-year rotation, I'm incredibly fortunate to be advised by [Prof. Kun 
 
 My research interests include development of efficient algorithms and systems for deep learning, software-hardware co-design of AI models, large language model quantization/acceleration. 
 
-If you are interested, please feel free to contact me through email or ![这是图片](images/Wechat.jpg "Wechat")!
+If you are interested, please feel free to contact me through email or ![Wechat](images/Wechat.jpg "Wechat")!
 
 
 

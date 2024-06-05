@@ -18,5 +18,10 @@ My research interests include development of efficient algorithms and systems fo
 If you are interested, please feel free to contact me through e-mail :)
 
 
+## Publications
 
+### Distributed Bilevel Optimization with Communication Compression
+**Authors:** Yutong He, Jie Hu, Xinmeng Huang, Songtao Lu, Bin Wang, Kun Yuan
+**Published in:** ICML, 2024
+(https://arxiv.org/pdf/2405.18858)
 

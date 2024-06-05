@@ -2,7 +2,7 @@
 title: "Distributed Bilevel Optimization with Communication Compression"
 collection: publications
 permalink: /publication/paper-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: Yutong He ^*, Jie Hu^*, Xinmeng Huang, Songtao Lu, Bin Wang, Kun Yuan
 date: 2024-05
 venue: 'ICML 2024'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/pdf/2405.18858)'

@@ -20,9 +20,9 @@ If you are interested, please feel free to contact me through e-mail :)
 
 ## Publications
 
-ICML, 2024
-### [Distributed Bilevel Optimization with Communication Compression](https://arxiv.org/pdf/2405.18858)
-Yutong He, Jie Hu, Xinmeng Huang, Songtao Lu, Bin Wang, Kun Yuan
+
+### [ICML 2024] [Distributed Bilevel Optimization with Communication Compression](https://arxiv.org/pdf/2405.18858)
+Yutong He*, Jie Hu*, Xinmeng Huang, Songtao Lu, Bin Wang, Kun Yuan
 
 
 
